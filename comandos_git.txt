@@ -11,6 +11,6 @@ editar ou cria arquivos
 git status
 git add <nome arquivo>
 git status
-git commit -m "mensagem
+git commit -m "mensagem estranha"
 git status
 volta para o passo 3
