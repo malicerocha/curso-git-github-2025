@@ -3,3 +3,14 @@ git status -> mostra status do trabalho
 git add -> adiciona arquivo para ser commitado
 git commit -m "msg"
 git log -> mostra todas as alterações do commit
+
+## FLUXO DE TRABALHO
+criar o diretório do projeto
+iniciar o git dentro do diretório criado (git init .)
+editar ou cria arquivos
+git status
+git add <nome arquivo>
+git status
+git commit -m "mensagem
+git status
+volta para o passo 3
