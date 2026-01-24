@@ -6,3 +6,5 @@ esse arquivo contém informações adicionados para git
 # Comandos mais genéricos
 
 - comandos estranhos
+
+# Mais comandos
